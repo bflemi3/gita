@@ -1,5 +1,5 @@
 # gita
-A app to manage terms and their meanings.
+An app to manage terms and their meanings.
 
 <small>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</small>
 
